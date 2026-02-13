@@ -96,3 +96,10 @@ https://www.gentoo.org/doc/handbook/
 ---
 
 
+1. Entrando como root
+
+No live environment:
+
+sudo su
+
+
