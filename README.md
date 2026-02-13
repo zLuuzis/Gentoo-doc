@@ -95,6 +95,4 @@ https://www.gentoo.org/doc/handbook/
 
 ---
 
-# Licença
 
-MIT
