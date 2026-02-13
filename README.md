@@ -196,7 +196,7 @@ mkdir -p /mnt/gentoo
 mount /dev/sdaX /mnt/gentoo
 
 mkdir -p /mnt/gentoo/efi
-mount /dev/sda5 /mnt/gentoo/efi
+mount /dev/sdaX /mnt/gentoo/efi
 ```
 
 ---
