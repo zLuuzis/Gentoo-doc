@@ -56,12 +56,6 @@ Este guia fornece apenas a fundação.
 
 ---
 
-# Guia de instalação
-
-
-
----
-
 # Requisitos
 
 * sistema UEFI
